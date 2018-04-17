@@ -1,4 +1,4 @@
-# Music Website Template
+# Blog Website Template
 
 Free website template built for bloggers to share their ideas with the world. Built to be integrated with a blogging comment platform such as Disqus.
 
