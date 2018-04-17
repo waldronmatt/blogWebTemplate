@@ -22,7 +22,7 @@ Edit your archives section in 2017.html & 2018.html:
 Edit your tag buttons:
 
 1) Edit the html pages with tag- appended before the title
-2) Edit the text in class "thumbnails". Each "thumbnails" instance represents a different page with the same tag.
+2) Edit the text in class "thumbnails". Each "thumbnails" instance represents a different page with the same tag
 
 ## Built With
 
