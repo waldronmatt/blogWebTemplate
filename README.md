@@ -2,7 +2,7 @@
 
 Free website template built for bloggers to share their ideas with the world. Built to be integrated with a blogging comment platform such as Disqus. Website features a recent blog posts homepage, html blog tag buttons, and a responsive blog picture archive. 
 
-To view a live demo of this website, go to: http://waldronmatthew.com/websites/blog/index.html
+To view a live demo of this website, go to: http://waldronmatthew.com/portfolio/blog/index.html
 
 ## Getting Started
 
@@ -14,10 +14,11 @@ Edit the blog pages:
 
 Edit your archives section in 2017.html & 2018.html:
 
-1) Copy your pictures to dir /pcitures/gallery
-2) Substitute your picture name in classes ".a, .b, .c", ect... in style.css
-3) Substitute your picture name in class "grid" in index.html
-4) Add in the cooresponding html blog page link
+1) Compress your pictures to optimize load time
+2) Copy your pictures to dir /pcitures/gallery
+3) Substitute your picture name in classes ".a, .b, .c", ect... in style.css
+4) Substitute your picture name in class "grid" in index.html
+5) Add in the cooresponding html blog page link
 
 Edit your tag buttons:
 
@@ -32,7 +33,7 @@ Edit your tag buttons:
 
 ## Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with Matthew Waldron before making a change.
+When contributing to this repository, you may fork and submit a pull request. Add a description of what you are doing and I'll review it.
 
 ## Versioning
 
