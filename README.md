@@ -31,7 +31,7 @@ Edit your tag buttons:
 
 * HTML5
 * CSS3
-* JQuery / Javascript
+* jQuery/JavaScript
 
 ## Contributing
 
