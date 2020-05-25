@@ -4,8 +4,6 @@ Free website template built for bloggers to share their ideas with the world. Bu
 
 Website features a recent blog posts homepage, html blog tag buttons, and a responsive blog picture archive. 
 
-To view a live demo of this website, go to: http://waldronmatthew.com/portfolio/blog/index.html
-
 ## Getting Started
 
 Edit the blog pages:
